@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "天才バカボン",
+  "base_artist": "アイドル・フォー",
+  "createdAt": "2026-01-05T16:57:17.910996Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "天才バカボン/アイドル・フォー (オルゴール)",
+      "artist": "Music Box Angels",
+      "has_synced": false,
+      "path": "select/01_天才バカボン_アイドル・フォー_(オルゴール)_Music_Box_Angels.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "天才バカボン",
+      "artist": "アイドル・フォー",
+      "has_synced": false,
+      "path": "select/pl_01_天才バカボン_アイドル・フォー.txt"
+    }
+  ]
+}
